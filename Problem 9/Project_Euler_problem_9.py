@@ -6,7 +6,7 @@ Created on Mon Jan 19 12:36:18 2026
 @author: dylanstanden
 
 """
-def triple(n) -> int:
+def triple(n) -> int, tuple:
     
   
    for c in range(1,n):
