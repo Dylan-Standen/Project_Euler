@@ -14,9 +14,3 @@ def triple(n) -> int:
         for a in range(1,b):
             if a**2 + b**2 == c**2 and a + b + c == n:
                 return a*b*c, (a,b,c)
-                
-    
-    
-        
-        
-print(triple(1000))
